@@ -29,6 +29,6 @@ Players online Log Reader
 	forever start player.js
 
 
-Should show both node apps running
+Show what node apps are running
 
 	forever list
