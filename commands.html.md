@@ -7,9 +7,11 @@ Restart the server hardware
 
 	shutdown -r now
 
-Run Bash Script to start all services below: (/root/start.sh)
+Run Bash Script to start all services below:
 	
 	bash start.sh
+
+Script located here: `/root/start.sh`
 
 <hr /> 
 
