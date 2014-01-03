@@ -32,3 +32,10 @@ Players online Log Reader
 Show what node apps are running
 
 	forever list
+	
+<hr />
+
+Start the server in interactive mode
+
+	cd /root/Starbound/linux64/
+	mono starrybound_server.exe
