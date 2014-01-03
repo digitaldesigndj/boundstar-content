@@ -7,19 +7,26 @@ Restart the server hardware
 
 	shutdown -r now
 
+Run Bash Script to start all services below:
+	
+	bash start.sh
+
+<hr /> 
+
 Start the Starbound Server
 
 	cd /root/Starbound/linux64/
-
 	mono-service starrybound_server.exe
 
 GitHub Website Updater (docpad)
 
-	forever /var/www/boundstar.com/boundstar/app.js
+	cd /var/www/boundstar.com/boundstar/
+	forever start app.js
 
 Players online Log Reader
 
-	forever /root/players_online/player.js
+	cd /root/players_online/
+	forever start player.js
 
 
 Should show both node apps running
