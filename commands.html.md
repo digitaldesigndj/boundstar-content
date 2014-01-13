@@ -1,6 +1,7 @@
 ---
 layout: default
-title: commands
+title: Commands
+navigation: false
 ---
 
 Restart the server hardware
