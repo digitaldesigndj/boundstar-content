@@ -1,6 +1,7 @@
 ---
 title: /item list
 layout: default
+navigation: false
 ---
 
 Server Commands
