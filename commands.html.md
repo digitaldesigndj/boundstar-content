@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Commands
+title: Admins Only Yo
 navigation: false
 ---
 
