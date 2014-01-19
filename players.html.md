@@ -4,12 +4,15 @@ layout: default
 javascript: '/js/players.js'
 ---
 
-# Player Profiles
-
-New thing here:
-
-
 <h2 class="ever">Players Online:</h2>
+
+<style>
+.content {
+	max-width: 600px;
+}
+</style>
+
+<h2>Regular Players</h2>
 <ul class="played"></ul>
-<p style="font-size: 12px">*this real big list</p>
+
 <hr />
