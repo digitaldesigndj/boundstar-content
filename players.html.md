@@ -1,6 +1,7 @@
 ---
 title: Players
-layout: player
+layout: default
+javascript: '/js/players.js'
 ---
 
 # Player Profiles
