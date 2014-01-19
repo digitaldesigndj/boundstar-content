@@ -2,8 +2,25 @@
 title: "Home Page"
 layout: default
 ---
-<h2>"Tiny Tower" Build Event Weekend</h2>
-<h3>How this will work:</h3>
+
+
+# Welcome to BoundStar
+
+
+## Get Started!
+
+ * Connect to boundstar.com or our IP Address.
+ * Prefix your message with a `#` to talk to the admins. 
+ * Use `/fuel` to get enough free solarium to FTL travel away from Spawn.
+ * `/ship`, `/planet` and `/home` will allow you to teleport from anywhere.
+ * We have a [TeamSpeak 3](http://teamspeak.com/?page=downloads) server! Just connect to boundstar.com on the default TeamSpeak port.
+ * [Join our group on Steam](http://steamcommunity.com/groups/boundstarserver)
+ * Have fun and be friendly!
+
+## "Tiny Tower" Build Event Weekend, January 18-20
+
+### How this will work:
+
 <p>This event will span the entire weekend</p>
 <p>The tower is 50 FLOORS tall, and is located to the right of spawn</p>
 <p>Each player is welcome to furnish ONE floor of the tower however they like (Once finished, the floor is yours!)</p>
@@ -11,15 +28,38 @@ layout: default
 <p>Unlike the previous build event, this will be hosted on the main server so no registration/sign-up is required</p>
 <p>Spawn will still be protected so while the event is open to anybody to participate, you will still need to get permission-to-build from an admin before you can start</p>
 
+
 <hr />
 <div class="chat"></div>
 <hr />
-<p>We have a <a href="http://teamspeak.com/?page=downloads">TeamSpeak 3</a> server! Just connect to boundstar.com on the default TeamSpeak port.</p>
-<p><a href="http://steamcommunity.com/groups/boundstarserver">Join our group on Steam</a></p>
-<p>Since this game is still in beta, you may get kicked off from time to time. Don't worry, you can usually log right back in and re-form your parties.</p>
-<p>Have fun and be friendly!</p>
 
-<p>You can help keep this server running, our current plan is $320/month for 32GB RAM, 12x 2GHz Intel Processors, 320GB SSD</p>
+
+## Warning, Restarts Ahoy!
+
+To properly backup the Universe files, we must kick all players off the server. This also helps the server run better because restarting the server restarts any memory leaks the software has. Most downtime will be very brief. We will do our best to give you 30 seconds notice, but sometimes even we have connection issues and can't give warning. Think of them as forced backups instead of an inconvienience. These kinds of restarts usually only last about 1 min, but there are cases where we will need more downtime (10-15) to do other work or change our IP addresses.
+
+Finally, s#*! happens, we have been DDoS'ed and we can't offer any assurances. We are trying our best to create a unique StarBound Experience. You can connect with us on Steam and TeamSpeak to get the latest developements and news about the server.
+
+
+
+## Improvements
+
+Running Starrybound server wrapper
+
+These are things we are thinking about doing:
+
+Anti Griefing Work - We work hard to secure and reliably recover the server when we are visited by Griefers. This includes world backpus and protection. 
+
+Events + Quests - Get exclusive items and participation badges.
+
+Badges and Profiles - Collect 'em all
+
+
+## Pitch In!
+
+You can help up out! We need Builders, Leaders, Donators, Admins, Artists, Computer Boffins, Writers and Game Modders to help us awesomize the server.
+
+You can help keep this server running, our current plan is $320/month for 32GB RAM, 12x 2GHz Intel Processors, 320GB SSD
 
 <h3>Donations</h3>
 <ul>
