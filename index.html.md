@@ -10,7 +10,7 @@ layout: default
 ## Get Started!
 
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
-<a href="http://starbound.serverlister.com/servers/c5a04864813d222e29b170b0a8220538/boundstar#vote" data-srv="c5a04864813d222e29b170b0a8220538" class="sl-vote-button">Vote</a>
+<a href="http://starbound.serverlister.com/servers/c5a04864813d222e29b170b0a8220538/boundstar#vote" data-srv="c5a04864813d222e29b170b0a8220538" class="sl-vote-button">Vote</a><br />
 <script>!function(d,s,id){var js;var fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.serverlister.com/votebutton.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","sl-platform");</script>
 
  * Connect to boundstar.com or our IP Address.
