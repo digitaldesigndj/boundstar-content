@@ -2,6 +2,7 @@
 title: Players
 layout: default
 javascript: '/js/players.js'
+navigation: false
 ---
 
 <h2 class="ever">Players Online:</h2>
