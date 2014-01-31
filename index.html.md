@@ -14,29 +14,12 @@ layout: default
 <script>!function(d,s,id){var js;var fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.serverlister.com/votebutton.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","sl-platform");</script>
 
  * Connect to boundstar.com or our IP Address.
- * Prefix your message with a `#` to talk to the admins. 
- * Use `/fuel` to get enough free solarium to FTL travel away from Spawn.
- * `/ship`, `/planet` and `/home` will allow you to teleport from anywhere.
- * We have a [TeamSpeak 3](http://teamspeak.com/?page=downloads) server! Just connect to boundstar.com on the default TeamSpeak port.
+ * Review the [Server Commands](/commands.html) page so you can play like a pro.
+ * Hop on the [TeamSpeak 3](http://teamspeak.com/?page=downloads) server! Just connect to boundstar.com.
  * [Join our group on Steam](http://steamcommunity.com/groups/boundstarserver)
- * Vote Every Day
+ * [Vote](http://starbound-servers.net/server/313/vote/) Every Day!
+ * Get a God's eye view of the universe on the [Server Status Panel](/status)
  * Have fun and be friendly!
-
-## "Tiny Tower" Build Event Weekend, January 18-20
-
-### How this will work:
-
-<p>This event will span the entire weekend</p>
-<p>The tower is 50 FLOORS tall, and is located to the right of spawn</p>
-<p>Each player is welcome to furnish ONE floor of the tower however they like (Once finished, the floor is yours!)</p>
-<p>ONLY build on an empty floor closest to ground level</p>
-<p>Unlike the previous build event, this will be hosted on the main server so no registration/sign-up is required</p>
-<p>Spawn will still be protected so while the event is open to anybody to participate, you will still need to get permission-to-build from an admin before you can start</p>
-
-
-<hr />
-<div class="chat"></div>
-<hr />
 
 
 ## Warning, Restarts Ahoy!
