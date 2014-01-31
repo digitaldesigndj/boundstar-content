@@ -1,44 +1,58 @@
 ---
+title: Server Commands
 layout: default
-title: Admins Only Yo
-navigation: false
 ---
 
-Restart the server hardware
+## Server Commands
 
-	shutdown -r now
+There are many commands available on this server.
 
-Run Bash Script to start all services below:
-	
-	bash start.sh
+### Messaging
 
-Script located here: `/root/start.sh`
+`/me` - emote messages
 
-<hr /> 
+`/w` - private message other players
 
-Start the Starbound Server
+`#` or `/admin` - private message the admins
 
-	cd /root/Starbound/linux64/
-	mono-service starrybound_server.exe
+`/mute "player"` - mute a player
 
-GitHub Website Updater (docpad)
+### Warping
 
-	cd /var/www/boundstar.com/boundstar/
-	forever start app.js
+`/ship`
+`/planet`
+`/home`
 
-Players online Log Reader
+### Ship Commands
 
-	cd /root/players_online/
-	forever start player.js
+`/shipaccess` - control who can access your ship
 
+`/spawn` - warp your ship to spawn for free
 
-Show what node apps are running
+`/fuel` - one use per player, gives you enough fuel for 1 FTL.
 
-	forever list
-	
-<hr />
+### Player Listing
 
-Start the server in interactive mode
+`/who` or `/players` or `/list` - list players online
 
-	cd /root/Starbound/linux64/
-	mono starrybound_server.exe
+`/whosthere` - list players on the same world as you
+
+### Informational Commands
+
+`/find` - shows the co-ordinates of the planet you are on
+
+`/find "player"` - shows you the location of another player
+
+`/rules`
+
+`/uptime`
+
+`/version`
+
+### Admins
+
+`/mute` and `/ban` -  in place for use by admins
+
+### Probuilders
+
+`/item` and `/give` - available for players promoted to Pro-Builder
