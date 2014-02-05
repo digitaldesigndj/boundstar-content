@@ -49,13 +49,15 @@ You can help up out! We need Builders, Leaders, Donators, Admins, Artists, Compu
 
 You can help keep this server running, our current plan is $320/month for 32GB RAM, 12x 2GHz Intel Processors, 320GB SSD
 
-<h3>Donations</h3>
+<h3>January Donations</h3>
 <ul>
-	<li><strong>Unity - $200</strong></li>
 	<li>Munlock - $40</li>
-	<li>Fanservice - $20</li>
+	<li><strong>Unity - $200</strong></li>
+	<li>Fanservice - $30</li>
 	<li>Mia Rose - $20</li>
 </ul>
+<p>January Server Bill - $248.93</p>
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 	<input type="hidden" name="cmd" value="_s-xclick">
 	<input type="hidden" name="hosted_button_id" value="9HGYPBBJV8954">
