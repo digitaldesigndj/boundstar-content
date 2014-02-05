@@ -27,9 +27,9 @@ There are many commands available on this server.
 
 `/shipaccess` - control who can access your ship
 
-`/spawn` - warp your ship to spawn for free
+`/spawn` - warp your ship to spawn for free, even if you aren't on it.
 
-`/fuel` - one use per player, gives you enough fuel for 1 FTL.
+`/fuel` - one use per player, gives you some free fuel for faster than light travel away from spawn.
 
 ### Player Listing
 
