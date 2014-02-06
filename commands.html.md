@@ -20,7 +20,9 @@ There are many commands available on this server.
 ### Warping
 
 `/ship`
+
 `/planet`
+
 `/home`
 
 ### Ship Commands
@@ -35,11 +37,11 @@ There are many commands available on this server.
 
 `/claim` - Claim a planet
 
+`/claim list` - Display all current claims held by player
+
 `/claim release` - Release claim 0
 
 `/claim release #` - Release claim #
-
-`/claim list` - Display all current claims held by player.
 
 `/claim warp` - Warp to planet claim 0
 
