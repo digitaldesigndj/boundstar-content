@@ -1,8 +1,7 @@
 ---
-title: Players
+title: Info
 layout: default
 javascript: '/js/players.js'
-navigation: false
 ---
 
 <h2 class="ever"> Players Have Visited this Universe</h2>
