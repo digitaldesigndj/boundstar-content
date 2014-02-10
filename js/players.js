@@ -1,11 +1,14 @@
+$.getJSON('http://boundstar.com/status/server/status', function( data ) {
+	// console.log( data );
+	$('.ever').text( data.playersSeen + ' Players Have Visited this Universe' );
+	$('.worlds').text( data.worldsExplored + ' Worlds Explored' );
+	$('.max').text( data.maxPlayers + ' Concurrent Players' );
 
-	$.getJSON('all_players.json', function( data ) {
-		console.log(data);
-		$('.ever').text( data.length + ' Players Have Visited this Universe' );
-		$players = $('.played');
-		$.each( data , function( i, v ) {
-			if( v.groupName != 'guest' ) {
-				$players.append('<li><a href="/player?name=' + encodeURIComponent( v.name ) + '">' + v.name + '[' + v.groupName + '] - </a> <a href="/edit_profile?name=' + encodeURIComponent( v.name ) + '">Edit Profile</a></li>');
-			}
-		});
+	var $planets = $('.planets');
+	$.each( data.activeWorlds, function(i,v) {
+		if( v.sector !== "sectorx" ) {
+			$planets.append("<li>Sector: " + v.sector + ", X:" + v.x + ", Y:" + v.y + ", Z:" + v.z + ", Planet: " + v.planet + " </li>");
+		}
 	});
+
+});

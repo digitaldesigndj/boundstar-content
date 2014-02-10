@@ -5,7 +5,7 @@ javascript: '/js/players.js'
 navigation: false
 ---
 
-<h2 class="ever">Players Online:</h2>
+<h2 class="ever"> Players Have Visited this Universe</h2>
 
 <style>
 .content {
@@ -13,7 +13,10 @@ navigation: false
 }
 </style>
 
-<h2>Regular Players</h2>
-<ul class="played"></ul>
+<h2 class="worlds"> Worlds Explored</h2>
 
-<hr />
+<h2 class="max"> Max Players Online</h2>
+
+<h2>Active Worlds</h2>
+
+<ul class="planets"></ul> 
