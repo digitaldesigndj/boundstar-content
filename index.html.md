@@ -14,7 +14,7 @@ layout: default
 <script>!function(d,s,id){var js;var fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.serverlister.com/votebutton.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","sl-platform");</script>
 
 
- * Connect to boundstar.com or our IP Address!
+ * Connect to boundstar.com with starbound multiplayer
  * Review the [Server Commands](/commands.html) page so you can play like a pro.
  * Hop on the [TeamSpeak 3](http://teamspeak.com/?page=downloads) server! Just connect to boundstar.com.
  * [Join our group on Steam](http://steamcommunity.com/groups/boundstarserver)
@@ -49,6 +49,14 @@ Badges and Profiles - Collect 'em all
 You can help up out! We need Builders, Leaders, Donators, Admins, Artists, Computer Boffins, Writers and Game Modders to help us awesomize the server.
 
 You can help keep this server running, our current plan is $320/month for 32GB RAM, 12x 2GHz Intel Processors, 320GB SSD
+<h3>February Donations</h3>
+<ul>
+	<li>YOLO420SWAG - $50</li>
+	<li>Keith J - $30</li>
+	<li>Munlock - $150</li>
+</ul>
+
+<p>Estimated February Server Bill - $320.93</p>
 
 <h3>January Donations</h3>
 <ul>
