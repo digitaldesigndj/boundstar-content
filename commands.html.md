@@ -33,20 +33,6 @@ There are many commands available on this server.
 
 `/fuel` - one use per player, gives you some free fuel for faster than light travel away from spawn.
 
-### Planet Claiming
-
-`/claim` - Claim a planet
-
-`/claim list` - Display all current claims held by player
-
-`/claim release` - Release claim 0
-
-`/claim release #` - Release claim #
-
-`/claim warp` - Warp to planet claim 0
-
-`/claim warp #` - Warp to planet claim #
-
 ### Player Listing
 
 `/who` or `/players` or `/list` - list players online
@@ -64,6 +50,20 @@ There are many commands available on this server.
 `/uptime`
 
 `/version`
+
+### Planet Claiming (NOT WORKING AT THIS TIME)
+
+`/claim` - Claim a planet
+
+`/claim list` - Display all current claims held by player
+
+`/claim release` - Release claim 0
+
+`/claim release #` - Release claim #
+
+`/claim warp` - Warp to planet claim 0
+
+`/claim warp #` - Warp to planet claim #
 
 ### Admins
 
