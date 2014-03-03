@@ -6,6 +6,7 @@ layout: default
 
 # Welcome to BoundStar
 
+## Attn: With the update today we will be connecting to my.boundstar.com till this notice is gone.
 
 ## <a href="https://docs.google.com/forms/d/1K9j-kKwU9BQR_fAzfZ86kiyFXTSdn2Tq5F0XB77U5As/viewform" target="_blank">Register</a> to Get Started!
 
@@ -54,18 +55,10 @@ You can help keep this server running, our current plan is $320/month for 32GB R
 	<li>YOLO420SWAG - $50</li>
 	<li>Keith J - $30</li>
 	<li>Munlock - $150</li>
+	<li>Munlock picked up the rest of the bill for this month</li>
 </ul>
 
 <p>Estimated February Server Bill - $320.93</p>
-
-<h3>January Donations</h3>
-<ul>
-	<li>Munlock - $40</li>
-	<li><strong>Unity - $200</strong></li>
-	<li>Fanservice - $30</li>
-	<li>Mia Rose - $20</li>
-</ul>
-<p>January Server Bill - $248.93</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 	<input type="hidden" name="cmd" value="_s-xclick">
