@@ -6,7 +6,9 @@ layout: default
 
 # Welcome to BoundStar
 
-## <a href="http://forum.boundstar.com" target="_blank">Register</a> to Get Started!
+## <a href="http://forum.boundstar.com/register" target="_blank">Register</a> to Get Started!
+
+## <a href="http://forum.boundstar.com" target="_blank">Boundstar Forums</a>!
 ###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Our chucklefish forum thread!</a></p>
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
 <a href="http://starbound.serverlister.com/servers/c5a04864813d222e29b170b0a8220538/boundstar#vote" data-srv="c5a04864813d222e29b170b0a8220538" class="sl-vote-button">Vote</a><br />
