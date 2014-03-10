@@ -6,7 +6,7 @@ layout: default
 
 # Welcome to BoundStar
 
-## <a href="forum.boundstar.com" target="_blank">Register</a> to Get Started!
+## <a href="http://forum.boundstar.com" target="_blank">Register</a> to Get Started!
 ###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Our chucklefish forum thread!</a></p>
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
 <a href="http://starbound.serverlister.com/servers/c5a04864813d222e29b170b0a8220538/boundstar#vote" data-srv="c5a04864813d222e29b170b0a8220538" class="sl-vote-button">Vote</a><br />
@@ -15,7 +15,7 @@ layout: default
 
  * Connect to boundstar.com with starbound multiplayer
  * Review the [Server Commands](/commands.html) page so you can play like a pro.
- * Introduce yourself [on our forums](forum.boundstar.com)!
+ * Introduce yourself [on our forums](http://forum.boundstar.com)!
  * Hop on the [TeamSpeak 3](http://teamspeak.com/?page=downloads) server! Just connect to boundstar.com.
  * [Join our group on Steam](http://steamcommunity.com/groups/boundstarserver)
  * [Vote](http://starbound-servers.net/server/313/vote/) Every Day!
