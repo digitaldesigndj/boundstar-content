@@ -5,10 +5,17 @@ layout: default
 
 
 # Welcome to BoundStar
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="9HGYPBBJV8954">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 ## <a href="http://forum.boundstar.com/register" target="_blank">Register</a> to Get Started!
-
 ## <a href="http://forum.boundstar.com" target="_blank">Boundstar Forums</a>!
+ Just a note that the forums and registration are in alpha stage- if you have problem please contact masondyoung@gmail.com and I can jump right on it :P
+
 ###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Our chucklefish forum thread!</a></p>
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
 <a href="http://starbound.serverlister.com/servers/c5a04864813d222e29b170b0a8220538/boundstar#vote" data-srv="c5a04864813d222e29b170b0a8220538" class="sl-vote-button">Vote</a><br />
