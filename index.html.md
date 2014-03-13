@@ -14,7 +14,9 @@ layout: default
 
 ## <a href="http://forum.boundstar.com/register" target="_blank">Register</a> to Get Started!
 ## <a href="http://forum.boundstar.com" target="_blank">Boundstar Forums</a>!
- Just a note that the forums and registration are in alpha stage- if you have problem please contact masondyoung@gmail.com and I can jump right on it :P
+ Just a note that the forums and registration are in alpha stage-
+ Have an issue?
+ contact [masondyoung@gmail.com](masondyoung@gmail.com) and I can jump right on it!
 
 ###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Our chucklefish forum thread!</a></p>
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
