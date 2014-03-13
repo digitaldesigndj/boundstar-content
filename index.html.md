@@ -14,11 +14,11 @@ layout: default
 
 ## <a href="http://forum.boundstar.com/register" target="_blank">Register</a> to Get Started!
 ## <a href="http://forum.boundstar.com" target="_blank">Boundstar Forums</a>!
- ####Just a note that the forums and registration are in alpha stage-
- ####Have an issue?
- ####contact [masondyoung@gmail.com](masondyoung@gmail.com) and I can jump right on it!
+ 
+ Forum in alpha testing-- Have an issue?
+ contact [masondyoung@gmail.com](email:masondyoung@gmail.com) and I can jump right on it!
 
-###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Our chucklefish forum thread!</a></p>
+###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Post on our chucklefish forum thread!</a></p>
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
 <a href="http://starbound.serverlister.com/servers/c5a04864813d222e29b170b0a8220538/boundstar#vote" data-srv="c5a04864813d222e29b170b0a8220538" class="sl-vote-button">Vote</a><br />
 <script>!function(d,s,id){var js;var fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.serverlister.com/votebutton.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","sl-platform");</script>
