@@ -21,7 +21,8 @@ layout: default
  contact [masondyoung@gmail.com](email:masondyoung@gmail.com) and I can jump right on it!
 -->
 ## Click the register tab to get started!
-### There is no password and it is [super easy to join]()
+
+##There is no password and it is [super easy to join]()
 
 ###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Post on our chucklefish forum thread!</a></p>
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
