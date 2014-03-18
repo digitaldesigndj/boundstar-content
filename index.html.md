@@ -12,14 +12,6 @@ layout: default
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<!--
-## <a href="http://forum.boundstar.com/register" target="_blank">Register</a> to Get Started!
-## <a href="http://forum.boundstar.com" target="_blank">Boundstar Forums</a>!
-
- 
- Forum in alpha testing-- Have an issue?
- contact [masondyoung@gmail.com](email:masondyoung@gmail.com) and I can jump right on it!
--->
 ## Click the register tab to get started!
 
 ##There is no password and it is [super easy to join]()
