@@ -20,7 +20,7 @@ layout: default
 ##There is currently no password for boundstar.com
 
 ###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Post on our chucklefish forum thread!</a></p>
-###<p><a href="http://forum.boundstar.com></a><span style="color:yellow">Boundstar forums!?</span> (Beta)</p>
+###<p><a href="http://forum.boundstar.com"></a><span style="color:yellow">Boundstar forums!?</span> (Beta)</p>
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
 </br>
 <a href="http://starbound.serverlister.com/servers/c5a04864813d222e29b170b0a8220538/boundstar-com#vote" data-srv="c5a04864813d222e29b170b0a8220538" class="sl-vote-button">Vote</a>
