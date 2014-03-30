@@ -1,6 +1,7 @@
 ---
 title: Server Commands
 layout: default
+navigation: false
 ---
 
 ## Server Commands
