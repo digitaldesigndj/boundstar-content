@@ -12,9 +12,12 @@ layout: default
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-## Click the register tab to get started!
+#<span style="color:red">ATTN: Registration, Rules and Ranking all updating for April</span>
+###<span style="color:red">More info coming on the 31st</span>
 
-##There is no password
+## Click the <span style="color:yellow">register</span> tab to get started! 
+
+##There is currently no password for boundstar.com
 
 ###<p><a href="http://community.playstarbound.com/index.php?threads/boundstar-an-open-starbound-server.60797/">Post on our chucklefish forum thread!</a></p>
 <script src="http://starbound-servers.net/embed.js?id=313&type=votes&size=small"></script>
