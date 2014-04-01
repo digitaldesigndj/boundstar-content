@@ -13,7 +13,7 @@ layout: default
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-> Welcome everyone, big changes are underway behind the scenes here at Boundstar. We have started a [forum](http://forum.bounstar.com/), and a [player manager](http://starrydex.com/signup)
+> Welcome everyone, big changes are underway behind the scenes here at Boundstar. We have started a [forum](http://forum.bounstar.com/), and a [player portal](http://starrydex.com/signup)
 
 #<span style="color:red">ATTN: Registration, Rules and Ranking all updating for April</span>
 ###<span style="color:red">More info coming on the 1st</span>
