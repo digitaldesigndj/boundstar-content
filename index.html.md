@@ -66,8 +66,3 @@ You can help keep this server running. It's not cheap, and we do it for you!
 
 <p>If you know of a great deal on a great server- let me know, always looking!</p>
 <br />
-
-<!-- <i class="fa fa-money" style="font-size: 50px;"></i> -->
-
-<a class="twitter" title="Twitter" href="http://twitter.com/home/?status=@MasonYoung - The server is "><i class="fa fa-twitter" style="font-size: 60px;"></i><br />Report Downtime</a>
-<a href="mailto:masondyoung@gmail.com?Subject=Boundstar is down dawg!" target="_top">or via email</a>
