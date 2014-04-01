@@ -18,7 +18,7 @@ layout: default
 #<span style="color:red">ATTN: Registration, Rules and Ranking all updating for April</span>
 ###<span style="color:red">More info coming on the 1st</span>
 
-## Click the <span style="color:yellow">register</span> tab to get started! Then make a [forum](http://forum.bounstar.com/) account.
+## Click the <span style="color:yellow">[register](/register)</span> tab to get started! Then make a [forum](http://forum.bounstar.com/) account.
 
 ##There is currently no password for boundstar.com
 
