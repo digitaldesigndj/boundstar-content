@@ -31,6 +31,7 @@ layout: default
 
 <a href="http://topg.org/Starbound/in-382866" target="_blank"> Vote on topg.org</a>
 
+If you vote, please [register on StarryDex and create a charater profile](http://starrydex.com/signup). We are going to introduce a ranking system soon and this months votes will be the start. There will be other special things for players who registered on the old system.
 
  * Connect to boundstar.com with starbound multiplayer
  * Review the [Server Commands](/commands.html) page so you can play like a pro.
