@@ -13,8 +13,6 @@ layout: default
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-> Welcome everyone, big changes are underway behind the scenes here at Boundstar. We have started a [forum](http://forum.bounstar.com/), and a [player portal](http://starrydex.com/signup)
-
 #<span style="color:red">ATTN: Registration, Rules and Ranking all updating for April</span>
 ###<span style="color:red">More info coming on the 1st</span>
 
@@ -42,31 +40,12 @@ If you vote, please [register on StarryDex and create a charater profile](http:/
  * Get a God's eye view of the universe on the [Server Status Panel](/status)
  * Have fun and be friendly!
 
-
-## Warning, Restarts Ahoy!
-
-To properly backup the Universe files, we must kick all players off the server. This also helps the server run better because restarting the server restarts any memory leaks the software has. Most downtime will be very brief. We will do our best to give you 30 seconds notice, but sometimes even we have connection issues and can't give warning. Think of them as forced backups instead of an inconvienience. These kinds of restarts usually only last about 1 min, but there are cases where we will need more downtime (10-15) to do other work or change our IP addresses.
-
-Finally, s#*! happens, we have been DDoS'ed and we can't offer any assurances. We are trying our best to create a unique StarBound Experience. You can connect with us on Steam and TeamSpeak to get the latest developements and news about the server.
-
-
-
-## Improvements
-
-These are things we are thinking about doing:
-
-Anti Griefing Work - We work hard to secure and reliably recover the server when we are visited by Griefers. This includes world backpus and protection. 
-
-Events + Quests - Get exclusive items and participation badges.
-
-Badges and Profiles - Collect 'em all
-
-
 ## Pitch In!
 
 You can help up out! We need Builders, Leaders, Donators, Admins, Artists, Computer Boffins, Writers and Game Modders to help us awesomize the server.
 
-You can help keep this server running, our current plan is $320/month for 32GB RAM, 12x 2GHz Intel Processors, 320GB SSD
+You can help keep this server running. It's not cheap, and we do it for you!
+<!-- our current plan is $320/month for 32GB RAM, 12x 2GHz Intel Processors, 320GB SSD -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 	<input type="hidden" name="cmd" value="_s-xclick">
 	<input type="hidden" name="hosted_button_id" value="9HGYPBBJV8954">
