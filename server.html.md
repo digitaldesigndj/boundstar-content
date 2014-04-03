@@ -1,5 +1,5 @@
 ---
-title: /item list
+title: "/item list"
 layout: default
 navigation: false
 ---

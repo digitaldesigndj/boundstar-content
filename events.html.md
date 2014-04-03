@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: Events
 layout: default
 navigation: false
 ---
