@@ -4,7 +4,7 @@ layout: default
 navigation: false
 ---
 
-## Server Commands
+## Server Commands for Starrybound
 
 There are many commands available on this server.
 
