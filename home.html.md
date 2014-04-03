@@ -3,7 +3,6 @@ title: "Home Page"
 layout: default
 ---
 
-
 # Welcome to BoundStar
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -66,3 +65,5 @@ You can help keep this server running. It's not cheap, and we do it for you!
 
 <p>If you know of a great deal on a great server- let me know, always looking!</p>
 <br />
+
+cool
