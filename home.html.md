@@ -1,6 +1,7 @@
 ---
 title: "Home Page"
 layout: default
+navigation: false
 ---
 
 # Welcome to BoundStar
