@@ -1,6 +1,7 @@
 ---
 title: Info
 layout: default
+navigation: false
 ---
 
 ## Welcome to the wiki site!
@@ -13,3 +14,5 @@ This content will automatically update whenever a new commit is pushed or pull r
 
 I can't wait to see some new information up here, I'll be thinking of some myself!
 If you have any questions send a chat message to Munlock!
+
+
