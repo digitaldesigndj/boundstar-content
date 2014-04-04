@@ -1,5 +1,5 @@
 ---
-Title: Ranks
+title: Ranks
 layout: default
 ---
 
