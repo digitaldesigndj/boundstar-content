@@ -35,3 +35,7 @@ Don't like gumroad? Here is a paypal button <form action="https://www.paypal.com
 </form>
 
 You'll still get all the member rank perks using this too!
+
+Still don't see your preferred donation method?
+Please contact me direct at [MasonDYoung@gmail.com](masondyoung@gmail.com) or post on the forums, I'll fix this for you!
+The donation, regardless the amount will support the server you love!
